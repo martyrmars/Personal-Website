@@ -5,3 +5,13 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/martyrmars/Personal-Website.git
 git push -u origin main
+
+~ $ cd username.github.io
+
+~ $ echo "Hello World" > index.html
+
+git add --all
+
+~ $ git commit -m "Initial commit"
+
+~ $ git push -u origin main
